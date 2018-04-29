@@ -1,2 +1,2 @@
 # TicTacToe-JavaFX
-The basi tictactoe game using javafx with attractive gui
+An Atrractive gui based tictactoe on JavaFx.
